@@ -1,5 +1,10 @@
 package com.wakaleo.gameoflife.domain;
 
+/**
+* Test JavaDoc comment
+*
+*
+*/
 public enum Cell {
     LIVE_CELL("*"), DEAD_CELL(".");
 
